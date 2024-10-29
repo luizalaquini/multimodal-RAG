@@ -1,5 +1,6 @@
 # Personal files
-OpenAI_key.txt
+data_wiki
+qdrant_d_0
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
